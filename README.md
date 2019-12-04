@@ -1,29 +1,9 @@
-# tenant-portal
+# vue 前后端分离项目框架搭建
 
-## Project setup
 ```
-npm install
+1、框架搭建<br>
+2、vue路由跳转<br>
+3、用户输入页面内容缓存<br>
+4、webpack不同环境打包配置及api接口访问（开发环境、测试环境、uat环境、生产环境）<br>
+5、国际化<br>
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
