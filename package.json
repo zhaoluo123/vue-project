@@ -1,5 +1,5 @@
 {
-  "name": "tenant-portal",
+  "name": "my-project",
   "version": "0.1.0",
   "private": true,
   "comment": "注释说明(serve:process.env.NODE_ENV='development';test、uat、prod:process.env.NODE_ENV='production')",
